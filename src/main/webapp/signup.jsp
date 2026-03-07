@@ -98,7 +98,7 @@
 
     <div class="signup-box">
         <h2>Signup</h2>
-        <form action="signup" method="post">
+        <form action="<%=request.getContextPath()%>/signup" method="post">
             <input type="text" name="username" placeholder="Username" required /><br>
             <input type="password" name="password" placeholder="Password" required /><br>
             
