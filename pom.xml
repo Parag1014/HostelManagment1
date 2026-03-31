@@ -6,10 +6,6 @@
 	<artifactId>HostelManagementSystem</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<properties>
-    <maven.compiler.source>1.8</maven.compiler.source>
-    <maven.compiler.target>1.8</maven.compiler.target>
-</properties>
 	<name>HostelManagementSystem Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
